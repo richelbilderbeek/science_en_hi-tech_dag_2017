@@ -34,6 +34,21 @@ FLL|?Harry
 FTC|?Sven, ?Gert-Jan, ?Klaas, anders ?Harry
 Computers|?Martin
 
+## Locaties
+
+afdeling|locatie
+---|---
+Metaal|?fijnmetaal lokaal
+3D printers|?dicht bij computerafdeling, ?electronica-afdeling
+Arduino|?kantine
+Dojo|?kantine
+Natuur & Techniek|?lab
+FLL|?droge lab, ?tussen computers en papier en textiel
+FTC|?papier en textiel
+Computers|?computerafdeling
+
+Houtlokaal is voor de vrijwilligers.
+
 ## Persbericht
 
 Deadline: 1 juni
