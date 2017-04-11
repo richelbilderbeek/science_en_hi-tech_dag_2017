@@ -8,6 +8,19 @@ Science en Hi-Tech dag 2017
 
 ## Activiteiten
 
+afdeling|activiteit
+---|---
+Metaal|?bouw?
+3D printers|?print?
+Arduino|?programmeer een machine
+Dojo|?programmeer een game
+Natuur & Techniek|?doe een experiment?
+FLL|?bouw?
+FTC|?bouw?
+Computers|?modelleer?
+
+## Contactpersonen
+
 afdeling|contactpersoon
 ---|---
 Metaal|Martijn
