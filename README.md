@@ -10,6 +10,8 @@ Science en Hi-Tech dag 2017
 
 ## Activiteiten
 
+Dit mag nog wel wat concreter :-)
+
 afdeling|activiteit
 ---|---
 Metaal|?bouw?
@@ -22,6 +24,8 @@ FTC|?bouw?
 Computers|?modelleer?
 
 ## Contactpersonen
+
+Dit mag nog wel harder besloten worden :-)
 
 afdeling|contactpersoon
 ---|---
@@ -36,6 +40,8 @@ Computers|?Martin
 
 ## Locaties
 
+Dit is enkel een voorstel. Hier mag nog prima geschoven worden
+
 afdeling|locatie
 ---|---
 Metaal|?fijnmetaal lokaal
@@ -48,6 +54,8 @@ FTC|?papier en textiel
 Computers|?computerafdeling
 
 Houtlokaal is voor de vrijwilligers.
+
+Bij de entree komt een receptie.
 
 ## [Persbericht](Persbericht.md)
 
