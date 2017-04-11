@@ -1,5 +1,7 @@
 # science_en_hi-tech_dag_2017
 
+![De Jonge Onderzoekers Groningen](Djog.png)
+
 Science en Hi-Tech dag 2017
 
  * Waar: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13, Groningen
