@@ -49,11 +49,11 @@ Computers|?computerafdeling
 
 Houtlokaal is voor de vrijwilligers.
 
-## Persbericht
+## [Persbericht](Persbericht.md)
+
+Zie [Persbericht](Persbericht.md).
 
 Deadline: 1 juni
-
-
 
 ## Bar
 
