@@ -32,10 +32,10 @@ afdeling|contactpersoon
 Metaal|Martijn
 3D printers|?Erik
 Arduino|?Jan, anders Richel
-Dojo|?Dagmar, anders Jan, anders Richel
-Natuur & Techniek|?Peter, anders Bas
+Dojo|?Thijs, ?Dagmar, anders Jan, anders Richel
+Natuur & Techniek|Peter
 FLL|Harry
-FTC|?Sven, ?Gert-Jan, ?Klaas
+FTC|Gert-Jan
 Computers|?Martin
 
 ## Locaties
@@ -45,12 +45,12 @@ Dit is enkel een voorstel. Hier mag nog prima geschoven worden
 afdeling|locatie
 ---|---
 Metaal|?fijnmetaal lokaal
-3D printers|?dicht bij computerafdeling, ?electronica-afdeling
+3D printers|?dicht bij computerafdeling, ?droge lab
 Arduino|?kantine
 Dojo|?kantine
-Natuur & Techniek|?lab
+Natuur & Techniek|lab
 FLL|papier en textiel
-FTC|?droge lab, ?tussen computers en papier en textiel
+FTC|electronica-afdeling
 Computers|?computerafdeling
 
 Houtlokaal is voor de vrijwilligers.
