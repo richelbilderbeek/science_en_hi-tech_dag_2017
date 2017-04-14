@@ -35,7 +35,7 @@ Arduino|?Jan, anders Richel
 Dojo|?Dagmar, anders Jan, anders Richel
 Natuur & Techniek|?Peter, anders Bas
 FLL|Harry
-FTC|?Sven, ?Gert-Jan, ?Klaas, anders ?Harry
+FTC|?Sven, ?Gert-Jan, ?Klaas
 Computers|?Martin
 
 ## Locaties
