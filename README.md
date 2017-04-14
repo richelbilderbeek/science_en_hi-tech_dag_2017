@@ -34,7 +34,7 @@ Metaal|Martijn
 Arduino|?Jan, anders Richel
 Dojo|?Dagmar, anders Jan, anders Richel
 Natuur & Techniek|?Peter, anders Bas
-FLL|?Harry
+FLL|Harry
 FTC|?Sven, ?Gert-Jan, ?Klaas, anders ?Harry
 Computers|?Martin
 
@@ -49,8 +49,8 @@ Metaal|?fijnmetaal lokaal
 Arduino|?kantine
 Dojo|?kantine
 Natuur & Techniek|?lab
-FLL|?droge lab, ?tussen computers en papier en textiel
-FTC|?papier en textiel
+FLL|papier en textiel
+FTC|?droge lab, ?tussen computers en papier en textiel
 Computers|?computerafdeling
 
 Houtlokaal is voor de vrijwilligers.
