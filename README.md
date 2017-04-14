@@ -22,6 +22,7 @@ Natuur & Techniek|?doe een experiment?
 FLL|?bouw?
 FTC|?bouw?
 Computers|?modelleer?
+Hout|?bouw?
 
 ## Contactpersonen
 
@@ -37,6 +38,7 @@ Natuur & Techniek|Peter
 FLL|Harry
 FTC|Gert-Jan
 Computers|?Martin
+Hout|?Han
 
 ## Locaties
 
@@ -52,8 +54,9 @@ Natuur & Techniek|lab
 FLL|papier en textiel
 FTC|electronica-afdeling
 Computers|?computerafdeling
+Hout|Houtlokaal
 
-Houtlokaal is voor de vrijwilligers.
+?Klei is voor de vrijwilligers.
 
 Bij de entree komt een receptie.
 
