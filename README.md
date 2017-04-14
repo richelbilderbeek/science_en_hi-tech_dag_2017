@@ -32,8 +32,8 @@ afdeling|contactpersoon
 ---|---
 Metaal|Martijn
 3D printers|?Erik
-Arduino|?Jan, anders Richel
-Dojo|?Thijs, ?Dagmar, anders Jan, anders Richel
+Arduino|Jan
+Dojo|Thijs
 Natuur & Techniek|Peter
 FLL|Harry
 FTC|Gert-Jan
