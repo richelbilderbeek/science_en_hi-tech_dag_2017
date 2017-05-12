@@ -14,15 +14,13 @@ Dit mag nog wel wat concreter :-)
 
 afdeling|activiteit
 ---|---
-Metaal|?bouw?
+Metaal|Galvanizeren
 3D printers|?print?
 Arduino|?programmeer een machine
 Dojo|?programmeer een game
 Natuur & Techniek|?doe een experiment?
 FLL|?bouw?
 FTC|?bouw?
-Computers|?modelleer?
-Hout|?bouw?
 
 ## Contactpersonen
 
