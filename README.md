@@ -31,14 +31,12 @@ Dit mag nog wel harder besloten worden :-)
 afdeling|contactpersoon
 ---|---
 Metaal|Martijn
-3D printers|?Erik
-Arduino|Jan
+3D printers|Arlette, Erik, Jan de J.
+Arduino|Jan K.
 Dojo|Thijs
 Natuur & Techniek|Peter
 FLL|Harry
 FTC|Gert-Jan
-Computers|?Martin
-Hout|?Han
 
 ## Locaties
 
@@ -53,10 +51,8 @@ Dojo|?kantine
 Natuur & Techniek|lab
 FLL|papier en textiel
 FTC|electronica-afdeling
-Computers|?computerafdeling
-Hout|Houtlokaal
 
-?Klei is voor de vrijwilligers.
+Hout en Klei is voor de vrijwilligers.
 
 Bij de entree komt een receptie.
 
