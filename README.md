@@ -1,8 +1,6 @@
-# science_en_hi-tech_dag_2017
+# Science en Hi-Tech dag 2017
 
-![De Jonge Onderzoekers Groningen](Djog.png)
-
-Science en Hi-Tech dag 2017
+![Science en Hi-Tech dag 2017 poster](Poster.png)
 
  * Waar: De Jonge Onderzoekers Groningen, Dirk Huizingastraat 13, Groningen
  * Wanneer: zondag 11 juni 2017 12:00-16:00
