@@ -14,11 +14,12 @@ afdeling|activiteit
 ---|---
 Metaal|Galvanizeren
 3D printers|?print?
-Arduino|?programmeer een machine
-Dojo|?programmeer een game
+Arduino|Programmeer een machine
+Dojo|Programmeer een game
 Natuur & Techniek|?doe een experiment?
 FLL|?bouw?
 FTC|?bouw?
+RGC|?bouw?
 
 ## Contactpersonen
 
@@ -33,6 +34,7 @@ Dojo|Thijs
 Natuur & Techniek|Peter
 FLL|Harry
 FTC|Gert-Jan
+FRC|?
 
 ## Locaties
 
@@ -40,13 +42,14 @@ Dit is enkel een voorstel. Hier mag nog prima geschoven worden
 
 afdeling|locatie
 ---|---
-Metaal|?fijnmetaal lokaal
-3D printers|?dicht bij computerafdeling, ?droge lab
+Metaal|Fijnmetaal lokaal
+3D printers|Fijnmetaal lokaal
 Arduino|?kantine
 Dojo|?kantine
-Natuur & Techniek|lab
-FLL|papier en textiel
-FTC|electronica-afdeling
+Natuur & Techniek|Lab
+FLL|Papier en textiel
+FTC|Electronica-afdeling
+FRC|?droge lab
 
 Hout en Klei is voor de vrijwilligers.
 
@@ -63,3 +66,7 @@ Deadline: 1 juni
 Bar blijft onbemand.
 Ranja staat klaar en is gratis
 Koffie en thee is 50 cent en kan met een pot betaald worden.
+
+## Foto's
+
+Nog geen fotograaf gevonden.
