@@ -30,7 +30,7 @@ afdeling|contactpersoon
 Metaal|Martijn
 3D printers|Arlette, Erik, Jan de J.
 Arduino|Jan K.
-Dojo|Thijs
+Dojo|?Frode, ?Dagmar, edoch zeker geen Thijs
 Natuur & Techniek|Peter
 FLL|Harry
 FTC|Gert-Jan
