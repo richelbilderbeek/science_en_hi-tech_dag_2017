@@ -59,7 +59,7 @@ Bij de entree komt een receptie.
 
 Zie [Persbericht](Persbericht.md).
 
-Deadline: 1 juni
+Deadline: 1 juni 14:00
 
 ## Bar
 
@@ -69,4 +69,4 @@ Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 ## Foto's
 
-Nog geen fotograaf gevonden.
+Carleen
