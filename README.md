@@ -8,18 +8,16 @@
 
 ## Activiteiten
 
-Dit mag nog wel wat concreter :-)
-
 afdeling|activiteit
 ---|---
 Metaal|Galvanizeren
 3D printers|Print een raket
 Arduino|Programmeer een machine
 Dojo|Programmeer een game
-Natuur & Techniek|Doe een experiment
-FLL|Bouw
-FTC|Bouw
-RGC|Bouw
+Natuur & Techniek|Meerdere experimenten
+FLL|Bouw een robot
+FTC|Bedienen een robot
+FRC|Bedienen een robot
 
 ## Contactpersonen
 
@@ -28,7 +26,7 @@ afdeling|contactpersoon
 Metaal|Martijn
 3D printers|Arlette, Erik, Jan de J.
 Arduino|Jan K.
-Dojo|?Frode, ?Dagmar, edoch zeker geen Thijs
+Dojo|Frode en Dagmar
 Natuur & Techniek|Peter
 FLL|Harry
 FTC|Gert-Jan
@@ -37,21 +35,18 @@ Drone|Klaas
 
 ## Locaties
 
-Dit is enkel een voorstel. Hier mag nog prima geschoven worden
-
 afdeling|locatie
 ---|---
 Metaal|Fijnmetaal lokaal
 3D printers|Fijnmetaal lokaal
-Arduino|?kantine
-Dojo|?kantine
+Arduino|Kantine
+Dojo|Kantine
 Natuur & Techniek|Lab
 FLL|Papier en textiel
 FTC|Electronica-afdeling
 FRC|Houtlokaal
 Drone|Plein
-
-Bij de entree komt een receptie, bemand door Amaia en Carleen
+Werkstukken|Kantine
 
 ## Persbericht
 
@@ -67,6 +62,10 @@ De Science en Hi-Tech dag is op zondag 11 juni 2017 van 12:00-16:00 bij De Jonge
 
 Meer informatie over het programma volgt zsm via onze website www.djog.nl!
 
+## Entree
+
+Bij de entree komt een receptie, bemand door Amaia en Carleen.
+
 ## Bar
 
 Bar blijft onbemand.
@@ -75,4 +74,4 @@ Koffie en thee is 50 cent en kan met een pot betaald worden.
 
 ## Foto's
 
- * Carleen
+Carleen maakt foto's
