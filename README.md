@@ -30,8 +30,8 @@ Arduino|Programmeer een machine
 Dojo|Programmeer een game
 Natuur & Techniek|Meerdere experimenten
 FLL|Bouw een robot
-FTC|Bedienen een robot
-FRC|Bedienen een robot
+FTC|Bedien een robot
+FRC|Bedien een robot
 
 ![Activiteiten begane grond](begane_grond_activiteiten.png)
 
