@@ -97,3 +97,7 @@ FTC|Gert-Jan
 FRC|Henk
 Drone|Klaas
 
+## Volgens jaar
+
+ * [Science en Hi-Tech dag 2018](https://github.com/richelbilderbeek/science_en_hi-tech_dag_2018)
+
